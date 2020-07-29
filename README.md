@@ -9,3 +9,5 @@ Gut Check: Exploring Your Microbiome (Coursera) -> https://www.coursera.org/lear
 Happy Belly Bioinformatics -> https://astrobiomike.github.io/
 
 Metagenomics wiki by Matthias Scholz -> http://www.metagenomics.wiki/
+
+Batch jobs and job scripting -> https://curc.readthedocs.io/en/latest/running-jobs/batch-jobs.html
