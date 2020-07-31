@@ -10,7 +10,9 @@ Happy Belly Bioinformatics -> https://astrobiomike.github.io/
 
 Metagenomics wiki by Matthias Scholz -> http://www.metagenomics.wiki/
 
-Linux command line exercises for NGS data processing -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html
+Ijaz's Bioinformatics tutorials and scripts -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/?C=M;O=D
+
+Ijaz's Linux command line exercises for NGS data processing -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html
 
 Batch jobs and job scripting -> https://curc.readthedocs.io/en/latest/running-jobs/batch-jobs.html
 
