@@ -18,3 +18,4 @@ Batch jobs and job scripting -> https://curc.readthedocs.io/en/latest/running-jo
 
 Slurm Quick Start User Guide -> https://slurm.schedmd.com/quickstart.html
 
+#useful tricks for processing multiple files in shell script -> https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html
