@@ -1,21 +1,29 @@
-# learning-resource
+###learning-resource
 
-Guide to statistical analysis in microbial ecology -> mb3is.megx.net/gustame
+##learning
 
-An Introduction to Applied Bioinformatic -> http://readiab.org/
+#Guide to statistical analysis in microbial ecology -> mb3is.megx.net/gustame
 
-Gut Check: Exploring Your Microbiome (Coursera) -> https://www.coursera.org/learn/microbiome
+#An Introduction to Applied Bioinformatic -> http://readiab.org/
 
-Happy Belly Bioinformatics -> https://astrobiomike.github.io/
+#Gut Check: Exploring Your Microbiome (Coursera) -> https://www.coursera.org/learn/microbiome
 
-Metagenomics wiki by Matthias Scholz -> http://www.metagenomics.wiki/
+##bioinformatics:tutorial and practice
 
-Ijaz's Bioinformatics tutorials and scripts -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/?C=M;O=D
+#Happy Belly Bioinformatics -> https://astrobiomike.github.io/
 
-Ijaz's Linux command line exercises for NGS data processing -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html
+#Metagenomics wiki by Matthias Scholz -> http://www.metagenomics.wiki/
+download genome from ncbi ftp->http://www.metagenomics.wiki/tools/fastq/ncbi-ftp-genome-download
 
-Batch jobs and job scripting -> https://curc.readthedocs.io/en/latest/running-jobs/batch-jobs.html
+#Genomes Download (FTP) FAQ -> https://www.ncbi.nlm.nih.gov/genome/doc/ftpfaq/#howtofind
 
-Slurm Quick Start User Guide -> https://slurm.schedmd.com/quickstart.html
+##bioinformatics:basics& magics for linux & slurm
+
+#Ijaz's Bioinformatics tutorials and scripts -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/?C=M;O=D
+#Ijaz's Linux command line exercises for NGS data processing -> http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html
+
+#Batch jobs and job scripting -> https://curc.readthedocs.io/en/latest/running-jobs/batch-jobs.html
+
+#Slurm Quick Start User Guide -> https://slurm.schedmd.com/quickstart.html
 
 #useful tricks for processing multiple files in shell script -> https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html
