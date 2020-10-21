@@ -12,11 +12,17 @@
 
 #Useful sites for beginner
 http://www.metagenomics.wiki/pdf/definition -> introduction and examples of tools
+http://manual.omicsbox.biobam.com/user-manual/module-metagenomics/ -> introduction of tools
 https://astrobiomike.github.io/genomics/ -> introduction and tutorials of tools
-http://merenlab.org/tutorials/assembly-based-metagenomics/ -> tutorial on assembly-based metagenomics
-https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/metagenomics/ -> tutorial 
-https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/
-https://www.ars.usda.gov/ARSUserFiles/80800505/International%20Workshop/Presentations/Wednesday%20Morning/Adi%20Doron-Faigenboim.pdf
+http://merenlab.org/tutorials/assembly-based-metagenomics/ -> tutorial on overview of assembly-based metagenomics
+
+#EBI online training tutorials
+https://www.ebi.ac.uk/training/online/topic/metagenomics
+
+#Tutorials from USDS metagenomics workshops
+https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/metagenomics/ -> tutorial on preprocessing and assembly with example data set
+https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/metagenomics2/ -> tutorial on annotation and binning
+
 
 #Happy Belly Bioinformatics -> https://astrobiomike.github.io/
 
