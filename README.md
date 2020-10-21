@@ -10,6 +10,14 @@
 
 ##bioinformatics:tutorial and practice
 
+#Useful sites for beginner
+http://www.metagenomics.wiki/pdf/definition -> introduction and examples of tools
+https://astrobiomike.github.io/genomics/ -> introduction and tutorials of tools
+http://merenlab.org/tutorials/assembly-based-metagenomics/ -> tutorial on assembly-based metagenomics
+https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/metagenomics/ -> tutorial 
+https://usda-ars-gbru.github.io/Microbiome-workshop/tutorials/
+https://www.ars.usda.gov/ARSUserFiles/80800505/International%20Workshop/Presentations/Wednesday%20Morning/Adi%20Doron-Faigenboim.pdf
+
 #Happy Belly Bioinformatics -> https://astrobiomike.github.io/
 
 #Metagenomics wiki by Matthias Scholz -> http://www.metagenomics.wiki/
